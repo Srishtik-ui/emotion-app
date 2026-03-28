@@ -13,3 +13,4 @@ Emotion-App is a Python-based web application that detects human emotions using 
 ```bash
 git clone https://github.com/Srishtik-ui/emotion-app.git
 cd emotion-app
+#emotion app by text
